@@ -1,4 +1,4 @@
- YouTube Watch History Analysis (Portfolio Project)
+YouTube Watch History Analysis (Portfolio Project)
 
 This project is part of my data analytics portfolio — a personal analysis of my **YouTube watch history** using Python. 
 The goal was to explore patterns in my viewing behavior, practice exploratory data analysis (EDA), and generate insights from everyday data.
